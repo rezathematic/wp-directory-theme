@@ -21,4 +21,4 @@ Directory wordpress theme to list jobs, individuals, houses, etc.
 ### Frontend
 
 - [ ] Constants
-- [ ] Content width
+- [x] Content width
