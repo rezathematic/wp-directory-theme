@@ -22,3 +22,16 @@ Directory wordpress theme to list jobs, individuals, houses, etc.
 
 - [ ] Constants
 - [x] Content width
+
+## Header
+
+- [ ] Navbar left
+- [ ] Navbar right
+- [ ] Navbar primary
+- [ ] Navbar secondary
+- [ ] Navbar mobile
+
+## Footer
+
+- [ ] Navbar footer
+- [ ] Navbar Copyright
